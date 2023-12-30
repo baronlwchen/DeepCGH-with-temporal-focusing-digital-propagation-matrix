@@ -6,10 +6,10 @@ For our application, we add the simulation of temporal focusing & digital propag
 
 The dependencies of this code include:  
 '''
-python 3.x
-tensorflow-gpu >= 2.0.0
-h5py
-scipy
-skimage == 0.19.2
-tqdm
+python 3.x  
+tensorflow-gpu >= 2.0.0  
+h5py  
+scipy  
+skimage == 0.19.2  
+tqdm  
 '''
